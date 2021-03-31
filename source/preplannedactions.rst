@@ -6,27 +6,29 @@ Pre-planned Actions
 Concept
 ---------
 
-The basic concept of the pre-planned actions is: we know we have to do these tasks sooner or later;
-having them on a list makes it extremely easy to assign new tasks to unassigned groups.
+The concept of the pre-planned actions is that we know we have to do these tasks sooner or later,
+and having them on a predefined list makes it clear what task to assign next, and easier to track progress against the task list.
 
-The basic operating procedure is for the Recon team to assign new tasks to idle groups already in the field,
+The operating procedure is for the Recon team to assign new tasks to idle groups already in the field,
 without needing to check with Ops.
 
 Actual procedure
 -------------------
 
-Each time a Recon team reports it is available for a new assignment, and there are no Ad Hoc assignments, the HQ team should pick a free item from the preplanned list.
+Each time a Recon team reports it is available for a new assignment, and there are no emergency Ad Hoc assignments pending, the Ark team should pick the next item from the pre-planned task list.
 
-The basic model should be:
+The task assignment model should be:
 
-* Critical Infrastructure first
-* A new assignment nearby the team's current location
+* Critical Infrastructure surveys
+* A new assignment near the team's current location. Either:
+    * a zone group survey
+    * lower priority ad hoc assignments
 
 To ease finding a nearby assignment: the pre-planned tasks are divided up into four geographic groupings: N, S, E, W, with four zone groups in each grouping.
 
 The assignment sheet has these columns:
 
-* **ID**: a short identifier for the pre-planned region.  E.G. "CI 2" or "ZG S4"
+* **ID**: a short identifier for the pre-planned region.  E.G. "CI 2" or "ZG S4" (meaning Critical Infrastructure Route 2 or Zone Group South 4)
 * **Area**: the Zone numbers that correspond to that zone group
 * **Assigned To**: The recon group doing the survey.  To be filled in upon initial assignment
 * **Started At**: timestamp for when the assignment was made, use four digit 24 hour time
