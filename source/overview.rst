@@ -55,4 +55,4 @@ The combination of the Pre-planned and Ad Hoc status sheets should give a comple
 
 The current Recon Assignment Sheet is available on the `Procedures and Documentation page`_ of the LAHCERT web site.
 
-.. _`Procedures and Documentation page`: https://cert.lahcfd.org/procedures-and-documentation
+.. _`Procedures and Documentation page`: https://cert.lahcfd.org/procedures

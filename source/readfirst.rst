@@ -19,7 +19,7 @@ and in an emergency you never know who may need to step into a leadership role.
 But first timers should focus on the individuals chapter of the LAH CERT Position guide.  All our procedures are available online
 in the `Procedures and Documentation page`_ of the `LAHCERT Web Site`_.
 
-.. _`Procedures and Documentation page`: https://cert.lahcfd.org/procedures-and-documentation
+.. _`Procedures and Documentation page`: https://cert.lahcfd.org/procedures
 .. _`LAHCERT Web Site`: https://cert.lahcfd.org/
 
 About the publishing system (for end users)
