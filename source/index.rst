@@ -21,9 +21,7 @@ Welcome to LAH CERT's documentation!
  
 
 
-Indices and tables
-==================
+Extras
+======
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`

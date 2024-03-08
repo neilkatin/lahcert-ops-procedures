@@ -192,3 +192,5 @@ rst_prolog = """
 """
 
 html_css_files = [ 'css/roles.css' ]
+
+html_use_index = False
