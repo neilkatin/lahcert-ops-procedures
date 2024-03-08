@@ -29,3 +29,5 @@ formats:
 python:
   install:
     - requirements: requirements.txt
+  post_system_dependencies:
+    - apt install graphviz
