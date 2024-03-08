@@ -13,6 +13,7 @@ Welcome to LAH CERT's documentation!
 
    readfirst
    overview
+   highlevel
    preplannedactions
    adhocactions
    status
