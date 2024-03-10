@@ -23,7 +23,7 @@ in the `procedures tab <https://cert.lahcfd.org/procedures>`_:
 The Phases
 ----------
 
-You can think about the 'flow' of an ad-hoc request as following these steps:
+You can think about the 'flow' of a task request as following these steps:
 
 * initial submission to Ops
 * task assignment from Ops to position (typically Recon)
